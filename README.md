@@ -1,2 +1,2 @@
 # Netflix
-This is my first repositoey
+This is my first repository
